@@ -1,0 +1,6 @@
+streamlit
+groq
+ddgs
+pypdf
+python-docx
+gTTS
